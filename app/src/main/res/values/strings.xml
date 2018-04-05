@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="mdbUrl">https://api.themoviedb.org/3/movie/550?api_key=%s</string>
+    <string name="apiKey">bac4b9718884f32cb7e4cea980e6092c</string>
+</resources>
